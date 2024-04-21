@@ -1,10 +1,12 @@
-# Keyboard Switcher
+# 🎮 Keyboard Switcher
 
-This is a simple windows form application that allows you to switch between different keyboard layouts automatically when you switch between different keyboards.
+Keyboard Switcher is a Windows Form application that simplifies the process of switching between different keyboard layouts when you switch between different keyboards.
 
-## How to use
+## 📚 How to Use
 
-luanch the application, press any key on a keyboard, the application will add a new input line where you can assing your keyboard a name and a layout. You can also remove a keyboard by pressing the remove button.
-
-Now when you type on that keyboard, the application will automatically switch to the layout you assigned to it.
-(but only if the last keyboard you typed on is the _not_ same as the one you are typing on now, this to allow for manual overrides)
+1. Launch the application.
+2. Press any key on a keyboard.
+3. The application will add a new input line where you can assign a name and a layout to your keyboard.
+4. To remove a keyboard, press the remove button.
+5. Now, when you type on a keyboard, the application will automatically switch to the assigned layout.
+    - Note: This will only happen if the last keyboard you typed on is different from the one you are currently typing on. This allows for manual overrides.
