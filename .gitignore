@@ -1,0 +1,4 @@
+.vs
+.vscode
+keyboard-switcher/bin/**
+keyboard-switcher/obj/**
